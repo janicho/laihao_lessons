@@ -1,0 +1,86 @@
+
+<h1 align="center">前端網頁入門教學大綱<br>
+Frontend Development Course</h1>
+<p align="right">講師：Jani Cho<p>
+<hr>
+
+<h2 align="center">課程大綱</h2>
+
+<table>
+    <caption></caption>
+    <tr bgcolor="#eee">
+        <th scope="col" colspan="3"><h3>課堂一</h3></th>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#606060" >Part 1楔子：認識Web Design</th>
+        <td colspan="2">
+          <ul>
+            <li>網頁是如何運作的？</li>
+            <li>Html, Css, Javascript負責什麼工作？</li>
+            <li>前後端怎麼分？</li>
+            <li>網頁開發工具介紹、操作</li>
+            <li>網站如何上傳與瀏覽？</li>
+            <li>Ftp使用教學</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#606060">Part 2認識基本網頁的組成</th>
+        <td colspan="2">
+          <ul>
+            <li>看懂網頁html結構(head、body)、doctypes</li>
+            <li>認識Html標籤與使用方式</li>
+            <li>如何套用樣式？style、Class、Id怎麼用？</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#ffe4be" colspan="3" ><h3>Part 3練習：實作一個簡單的連絡表單</h3></th>
+    </tr>
+      <tr bgcolor="#eee">
+        <th scope="col" colspan="3"><h3>課堂二</h3></th>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#606060" >Part 1基礎HTML5/CSS3：CSS屬性介紹</th>
+        <td colspan="2">
+<ul>
+  <li>CSS屬性的用法與介紹</li>
+  <li>如何修改文字顏色、圖片大小？</li>
+  <li>盒模型是什麼？一次學會padding、margin、border怎麼用</li>
+</ul>
+        </td>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#606060">Part 2基礎HTML5/CSS3：CSS屬性介紹</th>
+        <td colspan="2">
+<ul>
+  <li>display block/inline</li>
+  <li>相對 / 絕對定位</li>
+  <li>偽元素before/after</li>
+</ul>
+        </td>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#ffe4be" colspan="3" ><h3>Part 3練習：設計一個線上電子報</h3></th>
+    </tr>
+      <tr bgcolor="#eee">
+        <th scope="col" colspan="3"><h3>課堂三</h3></th>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#606060" >Part 1基礎HTML5/CSS3：基礎綜合排版練習</th>
+        <td colspan="2">
+<ul>
+  <li>html標籤與attr解析</li>
+  <li>常用css屬性用法練習</li>
+</ul>
+        </td>
+    </tr>
+    </tr>
+    <tr>
+        <th scope="row" bgcolor="#ffe4be" colspan="3" ><h3>Part 2練習：做一個你自己的IG頁面</h3></th>
+    </tr>
+</table>
+
+
+<button type="button">了解更多課程內容</button>
+
